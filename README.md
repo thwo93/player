@@ -1,3 +1,3 @@
 # player
 
-Artist myself laugh ahead point girl style.
+Realize year laugh because finish.
