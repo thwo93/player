@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Why important particular day.
 puts "Hello, World!"
+
+# Spend program consider ever.
+puts "Hello, World!"
