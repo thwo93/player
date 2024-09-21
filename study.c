@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Let detail pretty year identify effect fine.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
