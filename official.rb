@@ -17,3 +17,6 @@ puts "Hello, World!"
 
 # Those rock plan.
 puts "Hello, World!"
+
+# Technology send stage finally theory.
+puts "Hello, World!"
