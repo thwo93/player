@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Card improve cold half.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
