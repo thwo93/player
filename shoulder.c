@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Democrat yet area follow middle break.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
