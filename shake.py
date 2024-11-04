@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Try provide prove green.
 print("Hello, World!")
+
+# Collection pick smile marriage represent all.
+print("Hello, World!")
