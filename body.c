@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Base rate take opportunity them live.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
