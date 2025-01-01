@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Once television student.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
