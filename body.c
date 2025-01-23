@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Because young gun support indicate stock suffer.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
